@@ -5,7 +5,11 @@ const Index = () => {
     <div>
       <h1>Hello World!</h1>
       <Link href="/about">
-        <a>Página About</a>
+        <a>Página Sobre</a>
+      </Link>
+
+      <Link href="/category/products">
+        <a>Página Produtos</a>
       </Link>
     </div>
   )
